@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8D2-A642
+
+ Directory of C:\Users\ADMIN\Desktop\Aspire\Trainings\Git_GitHub\Project1
+
+13-06-2023  12:47    <DIR>          .
+13-06-2023  12:47    <DIR>          ..
+13-06-2023  12:47                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,761,144,832 bytes free
